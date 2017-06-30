@@ -1,3 +1,2 @@
 # easypower-backend
-
-a [Sails](http://sailsjs.org) application
+backend server for easypower
